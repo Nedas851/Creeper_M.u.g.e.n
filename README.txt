@@ -50,3 +50,36 @@ V1.21: the Attack Update Part 2 Patch 1
 -Added Super Effects
 -Added "Stare" Vctory
 -Added Shake
+
+V2.0: Combat Update
+-Crouching Strong Punch Knockback Has Been Reduced
+-Crouching Strong Punch Damage Set to 125
+	-Because 200 Damage is Very OP
+-Creeper's Hit Sparkles is now Updated
+-Standing Medium Kick is now more Knockback
+-Standing Strong Kick Attack HitBox Size is now increased
+-Crouching Strong Kick Pause Time has been set to 20,20
+
+V2.01: Combat Update Patch 1
+-Changed Tick Speed to 1 to 2 Every Attack
+	-makes creeper's combo Better
+-Changed Size to 1.25
+-Removed "creeper.def"
+-Renamed "AI-creeper.def" into "creeper.def"
+-Added a NEW Ability "Teleport"
+-Renamed Attack "Jump Light Kick" To "Ghast Normal"
+-Added a NEW Victory "DJ Taunt"
+-Updated Special Moves And Super Moves
+-Ai has been Patched
+
+V1.201: the Attack Update Part 2 Build 1
+-Changed Name "Creeper 1.2" to "Creeper"
+        -"Creeper 1.2" is Mistake Name
+
+V1.21: the Attack Update Part 2 Patch 1
+-Added First Victory Music
+-Added KO Echo
+-Changed Back to Original Keys
+-Added Super Effects
+-Added "Stare" Vctory
+-Added Shake
